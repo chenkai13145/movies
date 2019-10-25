@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "搜索预告电影",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {}
+}

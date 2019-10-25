@@ -1,0 +1,34 @@
+.search_top{
+	display: flex;
+    flex-direction: row;
+	position: fixed;
+	z-index: 200;
+	
+}
+.search_input{
+	width: 660upx;
+	height: 60upx;
+	font-size: 14px;
+	background-color:#eaeaea;
+}
+
+.search_icon{
+	width: 50upx;
+	height: 60upx;
+	text-align: right;
+	background-color: #eaeaea;
+	padding: 0 20upx 0 0;
+	padding: 0 20upx;
+}
+.serach_content{
+	display: flex;
+    flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	 padding-top: 80upx;
+}
+.poster{
+	width: 210upx;
+	height: 370upx;
+	padding:0 20upx;
+}

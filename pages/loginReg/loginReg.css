@@ -1,0 +1,20 @@
+.logins{
+	text-align: center;
+	margin-top: 30px;
+}
+.login_img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+.input_login{
+	width: 400upx;
+	padding:8px 30px;
+	border:1px #C8C7CC solid;
+	border-radius: 4px;
+	margin-bottom: 10px;
+}
+.from_login{
+	display: flex;
+	justify-content: center;
+}

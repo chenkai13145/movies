@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "lines": "/component/line/line",
+    "score": "/component/score/score"
+  }
+}

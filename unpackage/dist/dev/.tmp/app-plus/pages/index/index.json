@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "enablePullDownRefresh": true,
+  "titleNView": false,
+  "usingComponents": {
+    "score": "/component/score/score"
+  }
+}

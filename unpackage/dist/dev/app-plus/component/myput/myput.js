@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uni-input{ border-radius: 4px; border: 1px salmon solid; width: 70%; }\n",],undefined,{path:"./component/myput/myput.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./component/myput/myput.wxml') } }));

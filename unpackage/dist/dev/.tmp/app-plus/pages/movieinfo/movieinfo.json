@@ -1,0 +1,14 @@
+{
+  "titleNView": {
+    "type": "transparent",
+    "buttons": [
+      {
+        "type": "share"
+      }
+    ]
+  },
+  "usingComponents": {
+    "lines": "/component/line/line",
+    "score": "/component/score/score"
+  }
+}

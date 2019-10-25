@@ -1,0 +1,60 @@
+.info_video{
+	width: 100%;
+	height: 400upx;
+}
+.info_img{
+	display: flex;
+	flex-direction: row;
+	background-color: #f7f4f9;
+	padding: 10px 10px 20px 10px;
+	
+}
+.info_img_icon{
+	width: 310upx;
+	height: 340upx;
+}
+.info_img_text{
+	margin-left: 20px;
+	width: 400upx;
+	font-size: 16px;
+	color: #C0C0C0;
+}
+.score_info{
+	display: flex;
+	width: 340upx;
+	padding: 10px;
+	background-color: #ffffff;
+	box-shadow: 2px 2px 4px #999999;
+}
+.info_titl{
+	color: #C0C0C0;
+}
+.info_casof{
+	padding:0 10px 10px 10px;
+}
+.role{
+	/* display: flex;
+	flex-direction: row; */
+	white-space: nowrap;
+}
+.person{
+	width: 220upx;
+	margin-right: 10px;
+	display: inline-block;
+}
+.person_img{
+	width: 220upx;
+	height: 320upx;
+	
+}
+.person_text{
+	white-space:nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	text-align: center;
+}
+.graden{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-end;
+}

@@ -1,0 +1,30 @@
+
+.info_my{
+	width: 10px;
+	height: 10px;
+	align-self: center;
+}
+.you_info{
+	display: flex;
+	justify-content: space-between;
+	height: 40px;
+	border-bottom: #EAEAEA 1px solid;
+}
+.left_inf{
+	display: flex;
+	align-self: center;
+}
+label{
+	align-self: center;
+}
+.info_bottom{
+	position: fixed;
+	bottom: 0;
+}
+button{
+	width:710upx;
+	background-color: white;
+	font-size: 14px;
+	height: 36px;
+	margin-bottom: 6px;
+}

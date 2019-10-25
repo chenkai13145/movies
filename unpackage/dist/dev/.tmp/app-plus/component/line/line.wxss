@@ -1,0 +1,9 @@
+
+.lines{
+		padding:10rpx;
+}
+.line{
+	height: 0px;
+	border-top: 1px #EAEAEA solid;
+}
+
